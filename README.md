@@ -1,4 +1,2 @@
-# myfirstrepo
-my-first-repo
-hahahahaha this is so fun  !!!!
-i really like it 
+#git commands 
+here will have some git commands 
