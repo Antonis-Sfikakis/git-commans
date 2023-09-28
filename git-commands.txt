@@ -1,0 +1,24 @@
+THIS FILE WILL HAVE GIT COMMANDS
+git help(shoes everything about git)
+git command --help(opens browser and shows info for the command)
+git init (created an empty repo)(to see it ls -a)
+git status(shows what is added or not commited)
+git add (adds the file to the repo)
+git rm --cached filename (stops tracking the file) 
+git add -A (adds all the files which are not tracked)
+git commit -m ""(commit with always a message)
+git config --global user.email "AntonisSfikakis@gmail.com"
+git config --global user.name "Antonis Sfikakis"
+git diff (shows the changes made) 
+git restore filename(restores all changes) 
+git checkout id (the id is shown on git log)(reaturn to the id's commit)
+git checkout - (returns to the last commit before checkout) 
+git branch(shows the branch you are on)
+git branch nameofbranch (creates a new branch with name of branch)
+git chekout nameofbranch (switches to nameofbranch)
+(we switch branches to make changes without change the starting code) 
+(the new branch will be clone of the  we are into now ) 
+git branch -d nameofbranch(delete a branch whitch is merged)
+git branch -D nameofbranch(delete a branch whitch is not merged)
+git merge (merges the branches) 
+git commit --ammend -m "message"(commits only the one file we changed" 
